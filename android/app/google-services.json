@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573966071294",
+    "firebase_url": "https://fluffy35-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fluffy35",
+    "storage_bucket": "fluffy35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573966071294:android:1057f41bbb41f8df52bcaf",
+        "android_client_info": {
+          "package_name": "com.example.fluffy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573966071294-02o2rps9cp6q9bstppvn1tc4ck0h0jm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10z8WfpwdPi_m-t58DXmylRhakOgc7wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573966071294-02o2rps9cp6q9bstppvn1tc4ck0h0jm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
